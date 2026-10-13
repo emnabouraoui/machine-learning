@@ -1,0 +1,4 @@
+,Accuracy,Precision,Recall,F1,ROC-AUC
+LogisticReg,0.8138,0.5746,0.8557,0.6875,0.9148
+RandomForest,0.8358,0.6154,0.8378,0.7096,0.9224
+HistGradBoost,0.8332,0.6043,0.878,0.7159,0.933
